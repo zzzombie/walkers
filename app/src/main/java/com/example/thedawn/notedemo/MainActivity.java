@@ -36,6 +36,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void initView() {
+
+
+
+
+
         tv_content = (TextView) findViewById(R.id.tv_content);
         listview = (ListView) findViewById(R.id.listview);
         dataList = new ArrayList<Map<String, Object>>();
